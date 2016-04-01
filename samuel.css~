@@ -1,0 +1,6 @@
+body {
+    background-color: white;
+    font-family: times new roman;
+    font-size: 12pt;
+    text-decoration: underline;
+ }
