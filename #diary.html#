@@ -1,0 +1,821 @@
+<html>	
+<head>
+<link rel="stylesheet" href="samuel.css">
+<meta charset="utf-8" /> 
+<style>
+body
+{padding-left: 200px;
+text-align: ;}
+
+</style>
+
+
+</head>
+
+
+<body>
+<table border="5">
+     <tr>
+        <th>Datum</th>
+        <th>Aufträge</th>
+              </tr>                                   
+<td>2. März</td>
+<ul><td>
+
+<li>Vorstellungsgespräch</li>
+<li>Hausbesichtigung</li>
+<li>Aufträge erhalten (für erste Tage)</li>
+<li>Slack: zum chat</li> 
+   <li>Redmine: Aufträge</li> </td></ul>
+
+
+
+</tr>
+<tr><ul>
+<td>
+
+3. März</td>
+<td>
+<li>Grundwissen über Linux</li>
+<li>Operating system instalieren</li>
+</ul>
+</td>
+
+</tr>	
+
+
+<tr>
+<td>4. März</td>
+<ul>
+<td>
+
+<li>Vorhang aufhängen</li>
+<li>Wasserahn abdichten</li>
+<li>Artikel lesen über GNU und FSF</li>
+</td></ul>
+</tr>
+
+
+<tr>
+<td>7. März</td>
+<ul><td>
+<li>Grundwissen über HTML</li>
+<li>HTML Entwicklung</li>
+<li>Forschung über Malerei</li>
+</ul> 
+</td>
+</tr> 
+
+<td>8. März</td>
+<ul> <td><li>Linux Terminal kennenlernen </li>
+<li>Einkauf für die Malerei</li></td>
+</ul>
+
+<tr>
+<td>9. März</td>
+<ul><td> <li>Artikel über Git-hub lesen</li> 
+<li>Badzimmer mit Sodium waschen </li>
+</td></ul>
+</tr>
+<tr>
+<td>11. März</td>
+
+<ul>
+<td><li>Html mit Github veröffenlichten</li>
+    <li>Badzimmer mit Farbe  streichen  </li> </td>
+</ul>		
+</tr>
+
+<tr>
+<td>14. März</td>
+<ul><td><li>Vorbereiten Schlafzimmer zu streichen</li> 
+<li>Möbel herausnehmen</li>
+<li>Badzimmer  reinigen  </li>
+<li>Totoren schauen  </li></td>
+</ul>
+
+</tr>
+<tr>
+
+<td>15. März</td>
+<ul><td><li>Schlafzimmer mit Farbe grundieren</li> 
+<li>Artikel über Git lesen</li></td>
+</ul>
+</tr>
+<tr>
+<td>16. März</td>
+<ul><td><li>Schlafzimmer reinigen </li> 
+<li>Artikeln weiter lesen </li></td>
+
+</tr>
+	
+<tr>
+
+<td>17. März</td>
+
+<ul><td><li>Möbel züruck bringen</li>
+<li>Fenster reinigen</li></td>
+</tr> </ul><tr>
+</tr>
+<tr>
+<td>18. März</td>
+<ul><td><li>meine Homepage: Title erstellen </li> 
+<li>Vorberietung Dachzimmer zu streichen</li></td></ul>
+ </tr>
+
+<tr>
+
+<td>21. März</td>
+<ul><td><li>Waschen der Vorhänge </li> 
+<li>Git-Kurs(Interaktive)</li></td></ul>
+</tr>
+<tr> 
+<td>23. März</td>
+<ul><td><li>Dachzimmer streichen  </li> 
+<li>Git-Kurs(Interaktive)</li></td></ul>
+</tr>
+
+<tr> 
+<td>24. März</td>
+<ul><td><li>Einkaufen für Malerie  </li> 
+<li>Einreichen/Erklärung über einger Terminal-Befehle</li></td></ul>
+
+</tr>
+
+<tr>
+ 
+<td>26. März</td>
+<ul><td><li> CSS+Html Basis gelernt </li> 
+<li>Meine Homepage: Farbe anwenden</li></td></ul>
+</tr>
+ 
+ 
+
+<tr>
+ 
+<td>29. März</td>
+<ul><td><li>Besprechen über <a href="https://en.wikipedia.org/wiki/Binary_number" >Binary</a> und <a href="https://de.wikipedia.org/wiki/Hexadezimalsystem">Hexadezimal</a> 
+
+  </li>  
+<li>Neue Gast-Konto erstellen</li></td></ul>
+</tr>
+
+
+ 
+
+
+<tr>
+<td>4. April</td>
+<ul><td><li>Einkaufen</li>
+<li>Wohnzimmer Vorbereiten </li></ul>
+<li>Möbel herausnehmen</li>
+<li>Mein Homepage aktualisieren</li>
+</td>
+</tr>
+
+<tr>
+<td>5. April</td>
+<ul><td><li>Wohnzimmer mit Soduim waschen</li>
+<li>Mit <a href="http://www.w3schools.com/html/html_css.asp"> CSS</a> Style machen</li>
+<li>Risse mit Gips reparieren</li></ul>
+</tr>
+<tr>
+<td>6. April</td>
+<ul><td><li>Wohnzimmer vorstreichen</li>
+</ul>
+
+</tr>
+<tr>
+<td>7. April</td>
+<ul><td><li>Weiter vorstreichen </li>
+<li>Eher Heizung an Stelle von für Kamin</li>
+<li>Bücher bekommen (<a href= http://www.diveintopython3.net/>Python 3 </a>und <a href= https://www.wickedlysmart.com/head-first-html-css/> Html+Css</a>)</li></ul>
+</tr>
+<tr>
+<td>8. April</td>
+<ul><td><li>Tank mit Öl einfüllen </li>
+<li>Ölig Boden reingen </li>
+<li><a href= https://www.wickedlysmart.com/head-first-html-css/> Html+Css</a> Buch lessen</li></ul>
+</tr>
+
+<tr>
+<td>13. April</td>
+<ul><td><li>Sitzung machen  </li>
+<li>korrektur der Homepage</li>
+</ul>
+</tr>			
+
+<tr>
+<td>14. April</td>
+<ul><td><li>Badzimmer reingen </li>
+<li><a href= https://www.wickedlysmart.com/head-first-html-css/>Html+Css</a>Buch lessen </li>
+<li>Vorhang aufhängen </li></ul>
+
+</tr>	
+<tr>
+<td>15. April</td>
+<ul><td><li>Sitzung machen  </li>
+<li>Korrektur der Homepage</li>
+ 
+
+</tr>	
+<tr>
+<td>25. April</td>
+<ul><td><li>Koordinationssitzung </li>
+<li>Korrektur der Homepage</li>
+
+
+<li>Auf meiner Homepage neu Page erstellen </li>
+</ul>
+</tr>
+ 
+ </ul>
+
+<tr>
+
+<td>26. April</td>
+<ul><td><li>Wohnzimmer streichen  </li>
+<li>Korrektur der Homepage</li>
+<li>Einkauf für Malerie </li>
+
+<li><a href= https://www.wickedlysmart.com/head-first-html-css/> Html+Css</a> Buch lesen</li>
+</ul>
+</tr>
+ 
+ 
+
+</tr><td>27. April</td>
+<ul><td><li>Schrank abholen  </li>
+<li>Korrektur der Homepage</li>
+	
+
+<li><a href= https://www.wickedlysmart.com/head-first-html-css/> Html+Css</a> Buch lesen</li>
+</ul>
+</tr>
+ 
+
+
+<tr>
+
+<td>28. April</td>
+<ul><td><li>Fenster der Wohnzimmer reingen </li>
+<li><a href= https://www.wickedlysmart.com/head-first-html-css/> Html+Css</a> Buch lesen</li>
+</ul>
+</tr>
+ 
+
+
+
+</tr>
+
+<tr>
+
+<td>2. Mai</td>
+<ul><td><li>Wohnzimmer fertig streichen  </li>
+<li><a href= https://www.wickedlysmart.com/head-first-html-css/> Html+Css</a> Kapital-2 Buch lesen </li>
+</ul>
+</tr>
+ 
+
+
+
+<tr>
+
+<td>9. Mai</td>
+<ul><td><li>Wohnzimmer fertig streichen</li>
+<li>Wohnzimmer reingen</li>
+<li>Wohnzimmer Vorhang aufhängen </li>
+<li><a href= https://www.wickedlysmart.com/head-first-html-css/> Html+Css</a> Chapter-2 Buch lesen </li>
+</ul>
+</tr>
+ 
+
+	
+<tr>
+
+<td>10. Mai</td>
+<ul><td><li>Wohnzimmer aufräumen </li>
+<li>Wohnzimmer reinigen</li>
+
+<li><a href= https://www.wickedlysmart.com/head-first-html-css/> Html+Css</a> Chapter-2 Buch lesen </li>
+<li>Möbel herausnehmen  </li></ul>
+</tr>
+ <tr>
+
+<td>11. Mai</td>
+<ul><td>
+<li>Risse mit Gips reparieren</li>
+
+<li><a href= https://www.wickedlysmart.com/head-first-html-css/> Html+Css</a> Buch lesen </li>
+</ul>
+</tr>
+  <tr>
+
+<td>16. Mai</td>
+<ul><td>
+<li>Koordinationssitzung </li>
+
+<li><a href= https://www.wickedlysmart.com/head-first-html-css/> Html+Css</a> Kapital-3 Buch lesen </li>
+</ul>
+</tr>
+<tr>
+<td>17. Mai</td>
+<ul><td>
+<li>Montage neuer Toilettensitz </li>
+
+<li><a href= https://www.wickedlysmart.com/head-first-html-css/> Html+Css</a> Kapital-3 Buch lesen </li>
+</ul>
+</tr>
+<tr>
+<td>18. Mai</td>
+<ul><td>
+<li>Schlafzimmer Vorstreichen </li>
+
+<li><a href= https://www.wickedlysmart.com/head-first-html-css/> Html+Css</a> Kapital-4 Buch lesen </li>
+
+<li>Aufgaben machen</li></ul>
+
+</tr>
+<tr>
+<td>19. Mai</td>
+<ul><td>
+<li>Schlafzimmer vorstreichen </li>
+
+<li><a href= https://www.wickedlysmart.com/head-first-html-css/> Html+Css</a> Kapital-4 Buch lesen </li>
+
+
+</tr>
+<tr>
+<td>20. Mai</td>
+<ul><td>
+<li>Schlafzimmer grundieren </li>
+<li><a href= https://www.wickedlysmart.com/head-first-html-css/> Html+Css</a> Kapital-5 Buch lesen </li>
+</tr>
+
+<tr>
+<td>23. Mai</td>
+<ul><td>
+<li>Schlafzimmer grunderen </li>
+ <li>Risse mit Gips reparieren</li>
+  <li>Einkauf für Malerie</li>
+</tr>
+
+<tr>
+<td>24. Mai</tdie
+<ul><td>
+<li>Schlafzimmer mit Farbe streichen</li>
+<li><a href= https://www.wickedlysmart.com/head-first-html-css/> Html+Css</a> Kapital-5 Buch lesen </li>
+
+</tr>
+
+
+
+
+<tr>
+<td>25. Mai</td>
+<ul><td>
+<li>Schlafzimmer mit Farbe streichen</li>
+<li>Boden reinigen </li>
+<li>Vorhang waschen </li>
+</tr>
+<tr>
+<td>. Mai</td>
+<ul><td>
+<li>Schlafzimmer mit Farbe streichen</li>
+<li>Boden reinigen </li>
+<li>Vorhang waschen </li>
+</tr>
+
+
+
+
+<tr>
+<td>26. Mai</td>
+<ul><td>
+<li>Schlafzimmer reingen</li>
+<li>Boden reinigen </li>
+<li>Den alten Boden entfernen  </li>
+<li>Möbel zurück bringen   </li>
+<li>Fenster reinigen </li>
+<li>Vorhang aufhängen </li></tr>
+
+
+<tr>
+<td>30. Mai</td>
+<ul><td>
+<li>Koordination machen</li>
+<li>Garten für Sommer vorbereiten   </li>
+</tr>
+<tr>
+<td>31. Mai</td>
+<ul><td>
+<li>Alte Teppiche versorgen</li>
+<li><a href= https://www.wickedlysmart.com/head-first-html-css/>Html+Css</a> Kapital-6 Buch lesen </li>
+</tr>
+<tr>
+<td>1. Juni</td>
+<ul><td>
+<li>Alten Möbel Versorgen</li>
+<li><a href= https://www.wickedlysmart.com/head-first-html-css/>Html+Css</a> Kapital-6 Buch lesen </li>
+</tr>
+
+
+<tr>
+<td>2. Juni</td>
+<ul><td>
+
+<li>Alten Boden entfernen</li>
+
+<li>Alten Boden versorgen</li></td></ul>
+</tr>
+<td>6. Juni</td>
+<ul><td>
+
+<li><a href= https://www.wickedlysmart.com/head-first-html-css/>Html+Css</a>Buch lesen </li></ul>
+
+</tr>
+<td>7. Juni</td>
+<ul><td>
+
+<li><a href= https://www.wickedlysmart.com/head-first-html-css/>Html+Css</a>Buch lesen </li>
+<li>Wohnzimmer aufräumen</li>
+
+</tr>
+
+</tr>
+<td>8. Juni</td>
+<ul><td>
+
+<li><a href= https://www.wickedlysmart.com/head-first-html-css/>Html+Css</a>Buch lesen </li>
+<li>Auf meiner Homepage neune Seite erstellen </li>
+
+
+</tr>
+
+<tr>
+<td>9. Juni</td>
+<ul><td>
+
+<li><a href= https://www.wickedlysmart.com/head-first-html-css/>Html+Css</a>Buch lesen </li>
+<li>Auf meiner Homepage neune Seite erstellen </li>
+
+</tr>
+
+
+
+
+
+<tr>
+<td>10. Juni</td>
+<ul><td>
+
+<li><a href= https://www.wickedlysmart.com/head-first-html-css/>Html+Css</a>Buch lesen </li>
+<li>kordination machen</li>
+
+</tr>
+
+
+<tr>
+<td>15. Juni</td>
+<ul><td>
+
+<li><a href= https://www.wickedlysmart.com/head-first-html-css/>Html+Css</a>Buch lesen </li>
+<li>Wohnzimmer für besichtigung vorbereiten </li>
+<li>Wohnzimmer Möbel, Sofa, Herausnehemen </li>
+
+
+
+
+<tr>
+<td>16. Juni</td>
+<ul><td>
+
+<li><a href= https://www.wickedlysmart.com/head-first-html-css/>Html+Css</a>Buch lesen </li>
+<li>Wohnzimmer für besichtigung vorbereiten </li>
+<li>Wohnzimmer Möbel, Sofa, Herausnehemen </li>
+
+</tr>
+
+
+<tr>
+<td>17. Juni</td>
+<ul><td>
+
+<li>Dive into Python Grund vorstellung  </li>
+<li>Emacs Grund vorstellungen </li>
+<li>Toilten sitz repariren </li>
+<li>Montage eines neuen Schließfach</li>
+</tr>
+
+
+
+<tr>
+<td>21. Juni</td>
+<ul><td>
+
+<li><a href="http://www.diveintopython3.net/"> Dive into Python</a>Kapital-1 lesen</li>
+<li>Emacs Grund vorstellungen </li>
+
+
+</tr>
+
+
+
+
+<tr>
+<td>22. Juni</td>
+<ul><td>
+
+<li><a href="http://www.diveintopython3.net/"> Dive into Python</a>Kapital-1 lesen</li>
+<li>Emacs Tabble erstellen </li>
+
+
+</tr>
+
+
+
+
+
+
+
+<tr>
+<td>23. Juni</td>
+<ul><td>
+
+<li><a href="http://www.diveintopython3.net/"> Dive into Python</a>Kapital-2 lesen</li>
+<li>Emacs Tabble aksualieren  </li>
+
+
+</tr>
+
+
+
+
+
+
+<tr>
+<td>28. Juni</td>
+<ul><td>
+<li><a href= https://www.wickedlysmart.com/head-first-html-css/>Html+Css</a>Buch lesen </li>
+<li><a href="http://www.diveintopython3.net/"> Dive into Python</a>Kapital-2 lesen</li>
+<li> Neuen repository offnen  </li>
+
+
+</tr>
+
+
+<tr>
+<td>29. Juni</td>
+<ul><td>
+<li>Dachzimmer Vorstreichen  </li>
+<li>Möbel der Dachzimmer herausnehemen</li>
+
+
+</tr>
+
+
+
+<tr>
+<td>30. Juni</td>
+<ul><td>
+<li>Laptop zusuamen anschlissen   </li>
+<li>erste mal Python programeiren</li>
+
+
+</tr>
+
+
+<tr>
+<td>01. Juli</td>
+<ul><td>
+<li>Dachzimmer streichen  </li>
+
+
+
+</tr>
+</tr>
+
+
+<tr>
+<td>05. Juli</td>
+<ul><td>
+<li> <a href="http://www.diveintopython3.net/"> Dive into Python</a>Kapital-2 lesen</li>
+<li><a href= https://www.wickedlysmart.com/head-first-html-css/>Html+Css</a>Buch lesen </li>
+
+
+</tr>
+<tr>
+<td>06. Juli</td>
+<ul><td>
+
+<li>Büroraum zum striechen Vorberieten  </li>
+
+
+</tr>
+
+
+
+
+
+
+</tr>
+<tr>
+<td>07. Juli</td>
+<ul><td>
+
+<li>Büroraum zum striechen Vorberieten  </li>
+
+
+<li>Büroraum vorstriechen   </li>
+
+</tr>
+<tr>
+<td>08. Juli</td>
+<ul><td>
+
+<li>Büroraum  vorstriechen </li>
+
+
+</tr>
+
+</tr>
+<tr>
+<td>12 Juli</td>
+<ul><td>
+
+<li>Büroraum  mit Farbe striechen </li>
+
+
+</tr>
+</tr>
+<tr>
+<td>13. Juli</td>
+<ul><td>
+
+<li>Büroraum  mit Farbe striechen </li>
+
+
+</tr>
+
+</tr>
+<tr>
+<td>14. Juli</td>
+<ul><td>
+
+<li>Büroraum Reinigen </li>
+<li>Fenster des Büroraums Reinigen </li>
+
+
+
+<tr>
+
+
+<td>15. Juli</td>
+<ul><td>
+
+<li>Möbel züruck bringen  </li>
+
+<li>Den Alten-Boden entfernen </li>
+
+
+
+</tr>
+
+
+
+
+
+<tr>
+
+
+<td>19. Juli</td>
+<ul><td>
+
+<li><a href="http://learnpythonthehardway.org/book/" >Learn Python The hard way </a> lesen</li>
+
+<li>neues programirierung <a href ="https://github.com/sami-alazar/ungleich-learning-programming">repository</a> erstellen>
+
+
+
+
+</tr>
+
+
+
+<tr>
+
+
+<td>20. Juli</td>
+<ul><td>
+
+<li><a href="http://learnpythonthehardway.org/book/" > Learn Python The hard way </a> lesen</li>
+
+<li>neue Aufgaben auf meine <a href ="https://github.com/sami-alazar/ungleich-learning-programming"> repository </a> hochladen</li> 
+
+
+
+
+
+</tr>
+
+<td>21. Juli</td>
+<ul><td>
+
+<li><a href="http://learnpythonthehardway.org/book/" > Learn Python The hard way </a> lesen</li>
+
+<li> Aufgaben auf meine <a href ="https://github.com/sami-alazar/ungleich-learning-programming"> repository </a> hochladen</li> 
+
+
+
+
+
+
+</tr>
+
+
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</table>
+
+
+
+ <p><a href="http://sami-alazar.github.io/index.html">Home</a></p>
+
+
+
+<tr>
+
+
+<td>20. Juli</td>
+<ul><td>
+
+<li><a href="http://learnpythonthehardway.org/book/" > Learn Python The hard way </a> lesen</li>
+
+<li>neue Aufgaben auf meine <a href ="https://github.com/sami-alazar/ungleich-learning-programming"> repository </a> hochladen</li> 
+
+
+
+
+
+</tr>
+
+<td>21. Juli</td>
+<ul><td>
+
+<li><a href="http://learnpythonthehardway.org/book/" > Learn Python The hard way </a> lesen</li>
+
+<li> Aufgaben auf meine <a href ="https://github.com/sami-alazar/ungleich-learning-programming"> repository </a> hochladen</li> 
+
+
+
+
+
+
+</tr>
+
+
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</table>
+
+
+
+ <p><a href="http://sami-alazar.github.io/index.html">Home</a></p>
+
+
+
+ 
+ </body>
+
+</html>
+
